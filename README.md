@@ -1,5 +1,5 @@
-# Toggle CSS direction ( RTL <=> LTR )
-A Tiny PHP script that easily convert all of css codes that need to change for a direction change
+# Toggle CSS direction
+A Tiny PHP script that easily convert all of css codes that need to change for a direction change ( RTL <=> LTR )
 
 ### List of affected attributes : 
 
